@@ -19,6 +19,7 @@ img.rhcp-logo {
    float: right;
    border: 10px solid red;
    padding: 6px;
+   background-color: grey;
  }
 
 .video {
