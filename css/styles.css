@@ -1,3 +1,9 @@
+body {
+  margin: 14px;
+  border: 20px;
+  padding: 30px;
+}
+
 img.rhcp-logo {
   float: left;
   height: 200px;
@@ -6,9 +12,16 @@ img.rhcp-logo {
 }
 
 .column {
-  width: 400px;
+  width: 300px;
   float: left;
 }
 .sidebar {
    float: right;
+   border: 10px solid red;
+   padding: 6px;
  }
+
+.video {
+  display: block;
+  margin: 0 auto;
+}
