@@ -1,0 +1,14 @@
+img.rhcp-logo {
+  float: left;
+  height: 200px;
+  width: auto;
+  padding: 40px;
+}
+
+.column {
+  width: 400px;
+  float: left;
+}
+.sidebar {
+   float: right;
+ }
